@@ -1,0 +1,15 @@
+{
+  "name": "plants",
+  "scripts": {
+    "pptx": "marp  --pptx",
+    "pdf": "marp  --pdf"
+  },
+  "marp": {
+    "inputDir": "./slides",
+    "output": "./public",
+    "allowLocalFiles" : true
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
