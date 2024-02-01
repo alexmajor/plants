@@ -142,7 +142,7 @@ After setting up the DIY greenhouse cabinet, my plant adventure kept going stron
 
 ---
 
-![bg opacity](./assets/img/PXL_20230818_192724414.jpg)
+![bg opacity](./assets/img/PXL_20240201_021447799.jpg)
 
 # Thank you
 ## Any Questions?
